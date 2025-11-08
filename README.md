@@ -22,8 +22,9 @@ It helps users gain insights into their problem-solving patterns, track progress
 
 ## 💻 Screenshot
 
-Here’s a quick preview of the **LeetMetric Dashboard Interface** 👇  
+Here’s a preview of the **leetmetric Dashboard** interface 👇  
 
-![LeetMetric Dashboard Screenshot](![leetmetric](https://github.com/user-attachments/assets/d72f9771-e578-483f-9fce-045adca9a626)
+![LuxuryStay Dashboard Screenshot](![luxurystay png](![leetmetric](https://github.com/user-attachments/assets/b9679c1d-9a9f-44e9-bdb2-3e93ccaeb137)
+)
 )
 
