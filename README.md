@@ -24,7 +24,8 @@ It helps users gain insights into their problem-solving patterns, track progress
 
 Here’s a preview of the **leetmetric Dashboard** interface 👇  
 
-![Leetmetric Dashboard Screenshot](![leetmetric png](![leetmetric](https://github.com/user-attachments/assets/b9679c1d-9a9f-44e9-bdb2-3e93ccaeb137)
+![Leetmetric Dashboard Screenshot](![leetmetric png](![leetmetric](![leetmetric png](https://github.com/user-attachments/assets/db04b565-a2cb-4935-9231-66fcd006af1c)
+)
 )
 )
 
