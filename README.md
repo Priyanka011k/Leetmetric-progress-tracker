@@ -1,21 +1,29 @@
 # 🧮 LeetMetric
 
 **LeetMetric** is a React.js web app that tracks and visualizes your **LeetCode performance** using interactive charts and real-time statistics.  
-
+It helps users gain insights into their problem-solving patterns, track progress, and stay motivated through data-driven visuals.
 
 ---
 
 ## 🚀 Features
-- 📊 Visualizes LeetCode stats with dynamic charts  
-- ⚡ Fetches live data via LeetCode API  
-- 💻 Built with React.js and Chart.js  
-- 🎨 Clean, responsive, and modern UI  
+- 📊 Visualizes LeetCode stats with **dynamic and interactive charts**
+- ⚡ Fetches **real-time user data** via the LeetCode API
+- 💻 Built entirely with **React.js and Chart.js** for smooth performance
+- 🎨 Features a **clean, responsive, and modern UI** optimized for all devices
 
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend:** React.js, HTML, CSS   
-- **API:** LeetCode GraphQL API  
+- **Frontend:** React.js, HTML, CSS  
+- **Data Source:** LeetCode GraphQL API  
+- **Charting Library:** Chart.js  
 
 ---
+
+## 💻 Screenshot
+
+Here’s a quick preview of the **LeetMetric Dashboard Interface** 👇  
+
+![LeetMetric Dashboard Screenshot](![leetmetric](https://github.com/user-attachments/assets/d72f9771-e578-483f-9fce-045adca9a626)
+)
 
